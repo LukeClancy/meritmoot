@@ -1,0 +1,40 @@
+current directory: /src/plugins/meritmoot/gems/2.6.5/gems/pycall-1.3.0/ext/pycall
+/usr/local/bin/ruby -I /usr/local/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200212-3635-hhkei2.rb extconf.rb
+creating Makefile
+
+current directory: /src/plugins/meritmoot/gems/2.6.5/gems/pycall-1.3.0/ext/pycall
+make "DESTDIR=" clean
+
+current directory: /src/plugins/meritmoot/gems/2.6.5/gems/pycall-1.3.0/ext/pycall
+make "DESTDIR="
+compiling gc.c
+compiling libpython.c
+compiling pycall.c
+pycall.c: In function ‘pycall_without_gvl_p’:
+pycall.c:83:10: warning: cast from pointer to integer of different size [-Wpointer-to-int-cast]
+   return (int)pycall_tls_get(without_gvl_key);
+          ^
+pycall.c: In function ‘pycall_libpython_helpers_m_define_wrapper_method’:
+pycall.c:1080:16: warning: variable ‘name_sym’ set but not used [-Wunused-but-set-variable]
+   VALUE pyptr, name_sym;
+                ^~~~~~~~
+pycall.c: In function ‘Init_pycall’:
+pycall.c:2239:21: warning: passing argument 1 of ‘pycall_tls_create’ discards ‘volatile’ qualifier from pointer target type [-Wdiscarded-qualifiers]
+   pycall_tls_create(&without_gvl_key);
+                     ^~~~~~~~~~~~~~~~
+In file included from pycall.c:1:
+pycall_internal.h:514:39: note: expected ‘pycall_tls_key *’ {aka ‘unsigned int *’} but argument is of type ‘volatile pycall_tls_key *’ {aka ‘volatile unsigned int *’}
+ int pycall_tls_create(pycall_tls_key* tls_key);
+                       ~~~~~~~~~~~~~~~~^~~~~~~
+pycall.c: At top level:
+cc1: warning: unrecognized command line option ‘-Wno-self-assign’
+cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
+cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+compiling range.c
+compiling ruby_wrapper.c
+compiling thread.c
+linking shared-object pycall.so
+
+current directory: /src/plugins/meritmoot/gems/2.6.5/gems/pycall-1.3.0/ext/pycall
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 pycall.so ./.gem.20200212-3635-639m0d

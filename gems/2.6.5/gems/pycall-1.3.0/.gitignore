@@ -1,0 +1,16 @@
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+__pycache__/
+.ipynb_checkpoints/
+*.bundle
+*.so
+*.o
+*.pyc

@@ -1,0 +1,10 @@
+
+{{#if showComponent}}
+  <div id="representativeInfo" class="meritmoot tagtable">
+    <div class="meritmoot row">
+      {{#each subbedReps as |rep| }}
+        {{rep-tag id=rep.id mm_reference_str=rep.mm_reference_str tagTrigger=tagTrigger}}
+      {{/each}}
+    </div>
+  </div>
+{{/if}}

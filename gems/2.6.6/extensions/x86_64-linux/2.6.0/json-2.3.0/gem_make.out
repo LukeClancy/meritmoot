@@ -1,0 +1,13 @@
+current directory: /src/plugins/meritmoot/gems/2.6.6/gems/json-2.3.0/ext/json
+/usr/local/bin/ruby -I /usr/local/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200512-307-1ss9kf9.rb extconf.rb
+creating Makefile
+
+current directory: /src/plugins/meritmoot/gems/2.6.6/gems/json-2.3.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /src/plugins/meritmoot/gems/2.6.6/gems/json-2.3.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /src/plugins/meritmoot/gems/2.6.6/gems/json-2.3.0/ext/json
+make "DESTDIR=" install

@@ -1,0 +1,4 @@
+plugins:
+  meritmoot_enabled:
+    default: true
+    client: true

@@ -1,0 +1,17 @@
+module Meritmoot
+  class BvotesController < ::ApplicationController
+    requires_plugin Meritmoot
+
+    #before_action :ensure_logged_in
+    #requires_login except: [
+    #  :get_members_bvotes
+    #]
+    def get_members_bvotes()
+      render_json_dump(serialize_data(bvotes, BvoteSerializer))
+    end
+    def test
+      render_json_dump({"OKPEOPLE" => "LetsGO"})
+    end
+  end
+end
+
