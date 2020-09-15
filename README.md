@@ -32,7 +32,7 @@ An example bill page with Summary and an iframe with the bill inside:
 
 ## Installation
 
-I wouldn't suggest it as it is unstable. but if so, look at: [Install a Plugin](https://meta.discourse.org/t/install-a-plugin/19157) and other posts on [meta](meta.discourse.org). Rather, I would suggest looking at certain sections of the code for reference when doing similar bulk-api activities, or activites to do with discourse. If you still want to, send me a message and I will update the installation instructions, and some of the code base, for more general use.
+I wouldn't suggest it as it is unstable. but if so, look at: [Install a Plugin](https://meta.discourse.org/t/install-a-plugin/19157) and other posts on [meta](meta.discourse.org). Rather, I would suggest looking at certain sections of the code for reference when doing similar bulk-api activities, or activites to do with discourse. If you still want to, send me a message and I will update the installation instructions, and some of the code base, for more general use. To be clear, I am no longer working on this code base.
 
 ## Feedback
 
