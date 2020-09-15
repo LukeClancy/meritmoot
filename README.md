@@ -13,20 +13,20 @@ As I learnt more about ruby on rails, I realized that it was not feasible to con
 ## features
 Main screen with site information:
 
-![main](.front_page.png)
+![main](.pics/front_page.png)
 
 Bill category with topic tags and chosen representative votes / sponsorships, representatives added using the textbox at the top which matches text with representative choices:
 
-![Screenshot](.bills.png)
+![Screenshot](.pics/bills.png)
 
 An example Roll Call with a link to its bill:
 
-![Screenshot](.a_roll_call.png)
+![Screenshot](.pics/a_roll_call.png)
 
 An example bill page with Summary and an iframe with the bill inside:
 
-![Screenshot](.a_bill.png)
-![Screenshot](.a_bill_2.png)
+![Screenshot](.pics/a_bill.png)
+![Screenshot](.pics/a_bill_2.png)
 
 ... bill continues
 
