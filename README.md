@@ -25,6 +25,7 @@ An example Roll Call with a link to its bill:
 An example bill page with Summary and an iframe with the bill inside:
 
 ![Screenshot](.a_bill.png)
+![Screenshot](.a_bill_2.png)
 
 ## Installation
 
