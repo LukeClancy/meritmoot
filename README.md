@@ -35,4 +35,4 @@ I wouldn't suggest it as it is unstable, but if so, look at: [Install a Plugin](
 
 ## Feedback
 
-If you have issues or suggestions for the plugin, send me a message.
+If you have issues or suggestions for the plugin, I would appreciate you sending me a message!
