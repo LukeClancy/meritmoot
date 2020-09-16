@@ -1,4 +1,4 @@
-#![meritmoot](.pics/meritmoot.svg)
+![meritmoot](.pics/meritmoot.svg)
 
 meritmoot is an ongoing project dedicated to providing a platform for policy discussion on the internet. The platform provides an interface to access and comment on governmental data such as bills, votes and roll calls for the US house and senate.
 
