@@ -37,7 +37,7 @@ An example bill page with Summary and an iframe with the bill inside:
 
 ## Installation
 
-I wouldn't suggest using this version as I am using a new one
+I wouldn't suggest using this version as I am creating a new one
 
 ## Feedback
 
