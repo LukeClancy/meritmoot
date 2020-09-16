@@ -1,6 +1,6 @@
 # meritmoot
 
-meritmoot was a project dedicated to providing a platform for policy discussion on the internet. The project is still ongoing, but has pivoted in a diffrent direction away from the base technology it utilized, [discourse](https://www.discourse.org/). Meritmoot was a plugin for discourse, and will be reborn one day as meritfront.com.
+meritmoot was a project dedicated to providing a platform for policy discussion on the internet. The project is still ongoing, but has pivoted in a diffrent direction away from the base technology it utilized, [discourse](https://www.discourse.org/). Meritmoot was a plugin for discourse, and the project will be continued under a diffrent name.
 
 The idea of meritmoot was to provide a platform for:
   - organized and localized political discussion and information within a state
