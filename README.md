@@ -12,7 +12,7 @@ To summarize meritmoot provides a platform for:
 
 · social and public discussion between users
 
-· allows for decentralized organization of pollical groups.
+· allows for decentralized organization of political groups.
 
 The website is currently down as we are pivoting away from being a [discourse](https://www.discourse.org/) plugin. This is due to the wish to include more advanced features and views. Discourse, while an amazing platform, does not provide the flexibility needed for my vision of meritmoot V2.
 
